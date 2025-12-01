@@ -70,19 +70,6 @@ const baseConfig = {
       }
     },
   ],
-  video_ads: [
-    {
-      placement_type: "tourney_lobby",
-      inMobi: {
-        placement_id: "789101112",
-        egment_id: "wrench_menu_inMobi_A"
-      },
-      internal: {
-        video_URL: "",
-        segment_id: "wrench_menu_internal_A"
-      }
-    }
-  ],
   tourney_lock: {
     is_locked: true,
     prizeWorth: "₹ 10,000",
