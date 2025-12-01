@@ -16,7 +16,7 @@ const baseConfig = {
     {
       placement_type: "tourney_reg_popup",
       inMobi: {
-        placement_id: "123456",
+        placement_id: "10000551428",
         segment_id: "touney_reg_inmobi_A"
       },
       internal: {
@@ -30,7 +30,7 @@ const baseConfig = {
     {
       placement_type: "wrench_menu",
       inMobi: {
-        placement_id: "789101112",
+        placement_id: "10000551457",
         segment_id: "wrench_menu_inmobi_A"
       },
       internal: {
@@ -44,7 +44,7 @@ const baseConfig = {
     {
       placement_type: "home_page_overlay",
       inMobi: {
-        placement_id: "1415161718",
+        placement_id: "10000551441",
         segment_id: "home_page_overlay_inmobi_A"
       },
       internal: {
@@ -58,7 +58,7 @@ const baseConfig = {
     {
       placement_type: "tourney_promotional_banner",
       inMobi: {
-        placement_id: "1415161718",
+        placement_id: "10000551415",
         segment_id: "tourney_promotional_banner_inmobi_A"
       },
       internal: {
