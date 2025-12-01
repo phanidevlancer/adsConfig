@@ -75,7 +75,7 @@ const baseConfig = {
       placement_type: "tourney_lobby",
       inMobi: {
         placement_id: "789101112",
-        segment_id: "tourney_lobby_A"
+        Segment_Name
       },
       internal: {
         video_URL: "",
@@ -86,7 +86,8 @@ const baseConfig = {
   tourney_lock: {
     is_locked: true,
     prizeWorth: "₹ 10,000",
-    btnText: "Watch Ads"
+    btnText: "Watch Ads",
+    segment_id : "touney_lock_seg_A"
   }
 };
 
