@@ -20,7 +20,7 @@ const baseConfig = {
         segment_id: "touney_reg_inmobi_A"
       },
       internal: {
-        bannerImageUrl: "",
+        bannerImageUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdBrJnhzlS504lqvTbJHd-PPxFHUJilbkD5A&s",
         segment_id: "touney_reg_internal_A",
         action: {
           location: "wrench_menu"
@@ -34,7 +34,7 @@ const baseConfig = {
         segment_id: "wrench_menu_inmobi_A"
       },
       internal: {
-        bannerImageUrl: "",
+        bannerImageUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdBrJnhzlS504lqvTbJHd-PPxFHUJilbkD5A&s",
         segment_id: "wrench_menu_internal_A",
         action: {
           location: "Tourney"
@@ -48,7 +48,7 @@ const baseConfig = {
         segment_id: "home_page_overlay_inmobi_A"
       },
       internal: {
-        bannerImageUrl: "",
+        bannerImageUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdBrJnhzlS504lqvTbJHd-PPxFHUJilbkD5A&s",
         segment_id: "home_page_overlay_internal_A",
         action: {
           location: "Tourney"
