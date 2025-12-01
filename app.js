@@ -54,7 +54,21 @@ const baseConfig = {
           location: "Tourney"
         }
       }
-    }
+    },
+    {
+      placement_type: "tourney_promotional_banner",
+      inMobi: {
+        placement_id: "1415161718",
+        segment_id: "tourney_promotional_banner_inmobi_A"
+      },
+      internal: {
+        bannerImageUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdBrJnhzlS504lqvTbJHd-PPxFHUJilbkD5A&s",
+        segment_id: "tourney_promotional_banner_internal_A",
+        action: {
+          location: "Tourney"
+        }
+      }
+    },
   ],
   video_ads: [
     {
