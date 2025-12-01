@@ -1,0 +1,13 @@
+[build]
+  functions = "netlify/functions"
+
+# Route app routes to the serverless Express function
+[[redirects]]
+  from = "/fetchAdsConfig"
+  to = "/.netlify/functions/server/fetchAdsConfig"
+  status = 200
+
+[[redirects]]
+  from = "/"
+  to = "/.netlify/functions/server/"
+  status = 200
