@@ -86,6 +86,7 @@ const baseConfig = {
   tourney_lock: {
     is_locked: true,
     prizeWorth: "₹ 10,000",
+    placement_id : "",
     btnText: "Watch Ads",
     segment_id : "touney_lock_seg_A"
   }
