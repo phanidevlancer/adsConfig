@@ -75,7 +75,7 @@ const baseConfig = {
       placement_type: "tourney_lobby",
       inMobi: {
         placement_id: "789101112",
-        Segment_Name
+        egment_id: "wrench_menu_inMobi_A"
       },
       internal: {
         video_URL: "",
