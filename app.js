@@ -14,7 +14,7 @@ const baseConfig = {
   ads_visible: true,
   banner_ads: [
     {
-      placement_type: "toureny_reg_popup",
+      placement_type: "tourney_reg_popup",
       inMobi: {
         placement_id: "123456",
         segment_id: "touney_reg_inmobi_A"
@@ -69,7 +69,7 @@ const baseConfig = {
       }
     }
   ],
-  toureny_lock: {
+  tourney_lock: {
     is_locked: true,
     prizeWorth: "₹ 10,000",
     btnText: "Watch Ads"
